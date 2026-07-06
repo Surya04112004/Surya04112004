@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm Jeyasurya
+# 👋 Hi, I'm JEYA SURYA
 
 ### 💻 Full Stack Developer | Python Developer | AI Enthusiast
 
