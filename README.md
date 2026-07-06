@@ -1,77 +1,161 @@
-# Hi, I'm Jeyasurya 👋
+<div align="center">
 
-**Full Stack Developer • Python • Flask • AI Enthusiast**
+# 👋 Hi, I'm Jeyasurya
+
+### 💻 Full Stack Developer | Python Developer | AI Enthusiast
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub!;Full+Stack+Developer;Python+Developer;Building+AI+Projects;Always+Learning+New+Technologies" />
+
+<br>
+
+[![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=for-the-badge)](https://github.com/YOUR_USERNAME)
+
+</div>
 
 ---
 
-## 🚀 About Me
+# 🚀 About Me
 
-- 🎓 Final Year Computer Science & Engineering Student
-- 💻 Passionate about Full Stack Web Development
-- 🤖 Interested in AI, Machine Learning and Automation
-- 🌱 Currently improving my Python, JavaScript and Backend skills
-- 🎯 Goal: Build impactful software products and SaaS applications
+```python
+class Jeyasurya:
+
+    def __init__(self):
+
+        self.role = "Full Stack Developer"
+
+        self.language = ["Python","JavaScript","SQL"]
+
+        self.backend = ["Flask","MySQL"]
+
+        self.frontend = ["HTML","CSS","JavaScript"]
+
+        self.learning = [
+            "React",
+            "Node.js",
+            "AI"
+        ]
+
+        self.goal = "Build Products That Solve Real Problems"
+```
 
 ---
 
-## 🛠 Tech Stack
+# ⚡ Tech Stack
 
 ### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge)
 
-### Frontend
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Python](https://skillicons.dev/icons?i=python)
 
-### Backend
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![JavaScript](https://skillicons.dev/icons?i=javascript)
 
----
+![HTML](https://skillicons.dev/icons?i=html)
 
-## 📌 Featured Projects
+![CSS](https://skillicons.dev/icons?i=css)
 
-### 🌾 Smart AgriMind AI Chatbot
-Multilingual AI chatbot for agriculture using Python, Flask and Machine Learning.
-
-### ✅ Student Attendance System
-Attendance management system built with Flask and MySQL.
-
-### 🌐 Personal Portfolio
-Responsive developer portfolio built using HTML, CSS and JavaScript.
+![SQL](https://skillicons.dev/icons?i=mysql)
 
 ---
 
-## 📊 GitHub Analytics
+### Frameworks
 
-> Replace `YOUR_USERNAME` with your GitHub username.
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&hide_border=true)
+![Flask](https://skillicons.dev/icons?i=flask)
 
 ---
 
-## 🎯 Current Goals
+### Tools
 
-- Learn React
-- Learn Node.js
-- Contribute to Open Source
-- Build SaaS Products
-- Get a Software Developer role
+![VSCode](https://skillicons.dev/icons?i=vscode)
 
----
+![Git](https://skillicons.dev/icons?i=git)
 
-## 📫 Connect
+![GitHub](https://skillicons.dev/icons?i=github)
 
-- LinkedIn: Add your profile
-- Portfolio: Add your website
-- Email: Add your email
+![Postman](https://skillicons.dev/icons?i=postman)
 
 ---
 
-⭐ *Thanks for visiting my profile!*
+# 📂 Featured Projects
+
+## 🌱 Smart AgriMind AI Chatbot
+
+✔ AI Agriculture Assistant
+
+✔ Multi-language Support
+
+✔ Flask + Machine Learning
+
+---
+
+## 🌐 Personal Portfolio
+
+✔ Responsive Website
+
+✔ Modern UI
+
+✔ HTML CSS JavaScript
+
+---
+
+# 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark&hide_border=true)
+
+---
+
+# 🔥 GitHub Streak
+
+![](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=github-dark-blue&hide_border=true)
+
+---
+
+# 📈 Most Used Languages
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark&hide_border=true)
+
+---
+
+# 🏆 GitHub Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=algolia&no-frame=true&row=1)
+
+---
+
+# 📈 Activity Graph
+
+![](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=github-dark)
+
+---
+
+# 🎯 2026 Goals
+
+- ✅ Become Full Stack Developer
+
+- ✅ Build SaaS Products
+
+- ✅ Open Source Contributor
+
+- ✅ Learn React
+
+- ✅ Learn Node.js
+
+- ✅ Build AI Applications
+
+---
+
+# 🌐 Connect With Me
+
+📧 Email : yourmail@gmail.com
+
+💼 LinkedIn : https://linkedin.com/in/yourprofile
+
+🌍 Portfolio : https://yourportfolio.com
+
+---
+
+<div align="center">
+
+## ⭐ Thanks for visiting my profile!
+
+### Keep Learning • Keep Building • Keep Growing 🚀
+
+</div>
