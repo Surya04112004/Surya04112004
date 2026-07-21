@@ -68,6 +68,21 @@ Hi! I'm **Jeya Surya B**, a passionate **Full Stack Developer** and **Python Dev
 
 ---
 
+# 📄 Resume
+
+<p align="center">
+
+<a href="https://github.com/Surya04112004/Jeya-Surya-Resume">
+  <img src="https://img.shields.io/badge/📄%20View%20Resume-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="https://github.com/Surya04112004/Jeya-Surya-Resume/blob/main/Jeya_Surya_Resume.pdf">
+  <img src="https://img.shields.io/badge/⬇️%20Download%20Resume-PDF-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />
+</a>
+
+</p>
+---
+
 ### ⚡ Fun Fact
 
 > I believe **consistency, continuous learning, and building real projects** are the fastest ways to become a great software engineer.
