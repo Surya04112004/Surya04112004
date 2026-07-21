@@ -69,6 +69,7 @@ Hi! I'm **Jeya Surya B**, a passionate **Full Stack Developer** and **Python Dev
 ---
 
 # 📄 Resume
+# 📄 Resume
 
 <p align="center">
 
@@ -76,7 +77,7 @@ Hi! I'm **Jeya Surya B**, a passionate **Full Stack Developer** and **Python Dev
   <img src="https://img.shields.io/badge/📄%20View%20Resume-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
-<a href="https://raw.githubusercontent.com/Surya04112004/Jeya-Surya-Resume/main/Jeya_Surya_Resume.pdf" download>
+<a href="https://raw.githubusercontent.com/Surya04112004/Jeya-Surya-Resume/main/Jeya%20Surya%20Resume.pdf">
   <img src="https://img.shields.io/badge/⬇️%20Download%20Resume-PDF-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />
 </a>
 
