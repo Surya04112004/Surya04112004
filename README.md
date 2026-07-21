@@ -41,63 +41,36 @@ There you'll find my latest:
 
 ---
 
-# 💫 About Me
+# 🚀 About Me
 
-```python
-class JeyaSurya:
+Hi! I'm **Jeya Surya B**, a passionate **Full Stack Developer** and **Python Developer** from India.
 
-    def __init__(self):
+🎓 B.E. Computer Science & Engineering Graduate (2026)
 
-        self.name = "Jeya Surya B"
+💻 I enjoy building scalable Full Stack web applications, AI-powered solutions, and modern responsive websites.
 
-        self.role = "Full Stack Developer"
+🚀 My primary focus is creating real-world production-ready applications using modern web technologies.
 
-        self.education = "B.E Computer Science & Engineering (2026)"
+🌱 Currently learning advanced Backend Development, React, Node.js, System Design, Cloud Deployment, and Artificial Intelligence.
 
-        self.languages = [
-            "Python",
-            "JavaScript",
-            "HTML",
-            "CSS",
-            "SQL"
-        ]
-
-        self.frontend = [
-            "HTML",
-            "CSS",
-            "JavaScript",
-            "React"
-        ]
-
-        self.backend = [
-            "Flask",
-            "Node.js",
-            "Express.js"
-        ]
-
-        self.database = [
-            "MySQL",
-            "MongoDB",
-            "Firebase"
-        ]
-
-        self.tools = [
-            "Git",
-            "GitHub",
-            "VS Code",
-            "Postman"
-        ]
-
-        self.interests = [
-            "AI",
-            "Machine Learning",
-            "Full Stack Development"
-        ]
-
-        self.goal = "Build Real World Software Products"
-```
+🎯 My goal is to become a Software Engineer and build products that solve real-world problems while continuously improving my technical skills.
 
 ---
+
+### 💡 What I'm Working On
+
+- 🤖 AI Powered Web Applications
+- 🌐 Full Stack Web Development
+- ⚙️ REST API Development
+- 📱 Responsive Modern UI
+- 🚀 SaaS Products
+- 📚 Open Source Contributions
+
+---
+
+### ⚡ Fun Fact
+
+> I believe **consistency, continuous learning, and building real projects** are the fastest ways to become a great software engineer.
 
 # ⚡ Tech Stack
 
