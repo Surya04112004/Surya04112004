@@ -1,161 +1,188 @@
 <div align="center">
 
-# 👋 Hi, I'm JEYA SURYA
+# 👋 Hi, I'm **JEYA SURYA**
 
-### 💻 Full Stack Developer | Python Developer | AI Enthusiast
+# 🚀 My New GitHub Profile
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub!;Full+Stack+Developer;Python+Developer;Building+AI+Projects;Always+Learning+New+Technologies" />
+# 👉 **https://github.com/Jeyasurya-dev**
+
+<a href="https://github.com/Jeyasurya-dev">
+<img src="https://img.shields.io/badge/Visit-My%20New%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<br><br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=850&lines=This+Account+is+No+Longer+Active;Please+Visit+My+New+GitHub+Profile;github.com%2FJeyasurya-dev;Building+Full+Stack+%26+AI+Projects" />
 
 <br>
 
-[![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=for-the-badge)](https://github.com/YOUR_USERNAME)
+[![Profile Views](https://komarev.com/ghpvc/?username=YOUR_OLD_USERNAME&label=Old%20Profile%20Views&color=0e75b6&style=for-the-badge)](https://github.com/YOUR_OLD_USERNAME)
 
 </div>
 
 ---
 
-# 🚀 About Me
+# ⚠️ Notice
+
+This GitHub account is no longer actively maintained.
+
+### ✅ Please visit my latest GitHub profile
+
+# 👉 https://github.com/Jeyasurya-dev
+
+There you'll find my latest:
+
+- 🚀 Full Stack Projects
+- 🤖 AI Powered Applications
+- 🌐 Portfolio
+- 💻 Open Source Projects
+- 📚 Latest Technologies
+- ✨ Active Contributions
+
+---
+
+# 💫 About Me
 
 ```python
-class Jeyasurya:
+class JeyaSurya:
 
     def __init__(self):
 
+        self.name = "Jeya Surya B"
+
         self.role = "Full Stack Developer"
 
-        self.language = ["Python","JavaScript","SQL"]
+        self.education = "B.E Computer Science & Engineering (2026)"
 
-        self.backend = ["Flask","MySQL"]
-
-        self.frontend = ["HTML","CSS","JavaScript"]
-
-        self.learning = [
-            "React",
-            "Node.js",
-            "AI"
+        self.languages = [
+            "Python",
+            "JavaScript",
+            "HTML",
+            "CSS",
+            "SQL"
         ]
 
-        self.goal = "Build Products That Solve Real Problems"
+        self.frontend = [
+            "HTML",
+            "CSS",
+            "JavaScript",
+            "React"
+        ]
+
+        self.backend = [
+            "Flask",
+            "Node.js",
+            "Express.js"
+        ]
+
+        self.database = [
+            "MySQL",
+            "MongoDB",
+            "Firebase"
+        ]
+
+        self.tools = [
+            "Git",
+            "GitHub",
+            "VS Code",
+            "Postman"
+        ]
+
+        self.interests = [
+            "AI",
+            "Machine Learning",
+            "Full Stack Development"
+        ]
+
+        self.goal = "Build Real World Software Products"
 ```
 
 ---
 
 # ⚡ Tech Stack
 
-### Languages
+<p align="center">
 
-![Python](https://skillicons.dev/icons?i=python)
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,express,python,flask,mysql,mongodb,firebase,git,github,vscode,postman,netlify,vercel,render"/>
 
-![JavaScript](https://skillicons.dev/icons?i=javascript)
-
-![HTML](https://skillicons.dev/icons?i=html)
-
-![CSS](https://skillicons.dev/icons?i=css)
-
-![SQL](https://skillicons.dev/icons?i=mysql)
+</p>
 
 ---
 
-### Frameworks
+# 🚀 Latest Projects
 
-![Flask](https://skillicons.dev/icons?i=flask)
+## 🤖 SYRA AI
 
----
+AI Powered Smart Assistant
 
-### Tools
+### Live
 
-![VSCode](https://skillicons.dev/icons?i=vscode)
-
-![Git](https://skillicons.dev/icons?i=git)
-
-![GitHub](https://skillicons.dev/icons?i=github)
-
-![Postman](https://skillicons.dev/icons?i=postman)
+https://syra-ai-seven.vercel.app/
 
 ---
 
-# 📂 Featured Projects
+## 💰 Smart Expense Tracker
 
-## 🌱 Smart AgriMind AI Chatbot
+### Live
 
-✔ AI Agriculture Assistant
-
-✔ Multi-language Support
-
-✔ Flask + Machine Learning
+https://smart-expense-tracker-4ti2.onrender.com
 
 ---
 
-## 🌐 Personal Portfolio
+## 🌱 Sethu Farm
 
-✔ Responsive Website
+### Live
 
-✔ Modern UI
-
-✔ HTML CSS JavaScript
+https://sethufarm.netlify.app/
 
 ---
 
-# 📊 GitHub Stats
+## 🌐 Portfolio
 
-![](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark&hide_border=true)
+### Live
 
----
-
-# 🔥 GitHub Streak
-
-![](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=github-dark-blue&hide_border=true)
+https://jeya-surya-portfolio.vercel.app/
 
 ---
 
-# 📈 Most Used Languages
+# 📌 Looking For
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark&hide_border=true)
+✔ Software Engineer Opportunities
 
----
+✔ Full Stack Developer Roles
 
-# 🏆 GitHub Trophies
+✔ Python Developer Roles
 
-![](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=algolia&no-frame=true&row=1)
-
----
-
-# 📈 Activity Graph
-
-![](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=github-dark)
+✔ Open Source Collaboration
 
 ---
 
-# 🎯 2026 Goals
+# 🌐 Connect
 
-- ✅ Become Full Stack Developer
+📧 Email
 
-- ✅ Build SaaS Products
+suryasivalai04@gmail.com
 
-- ✅ Open Source Contributor
+💼 LinkedIn
 
-- ✅ Learn React
+https://www.linkedin.com/in/jeya-surya-b-84a80337a
 
-- ✅ Learn Node.js
+🌍 Portfolio
 
-- ✅ Build AI Applications
+https://jeya-surya-portfolio.vercel.app
 
----
+💻 New GitHub
 
-# 🌐 Connect With Me
-
-📧 Email : yourmail@gmail.com
-
-💼 LinkedIn : https://linkedin.com/in/yourprofile
-
-🌍 Portfolio : https://yourportfolio.com
+https://github.com/Jeyasurya-dev
 
 ---
 
 <div align="center">
 
-## ⭐ Thanks for visiting my profile!
+# ⭐ Thank You For Visiting
 
-### Keep Learning • Keep Building • Keep Growing 🚀
+## 🚀 Please Follow My Latest GitHub Profile
+
+# 👉 https://github.com/Jeyasurya-dev
 
 </div>
